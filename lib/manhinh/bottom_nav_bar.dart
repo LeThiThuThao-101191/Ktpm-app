@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:man_hinh/manhinh/chat.dart';
 import 'package:man_hinh/manhinh/profile.dart';
-import 'package:man_hinh/manhinh/Tour.dart';
 import 'package:man_hinh/manhinh/thongbao.dart';
-
+import 'package:man_hinh/manhinh/vegetable.dart';
 class BottomNavBar extends StatefulWidget {
   final String email;
 

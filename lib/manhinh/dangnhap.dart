@@ -3,9 +3,8 @@ import 'package:http/http.dart' as http;
 
 import 'dart:convert';
 
-import 'package:man_hinh/manhinh/Tour.dart';
 import 'package:man_hinh/manhinh/bottom_nav_bar.dart';
-
+import 'package:man_hinh/manhinh/vegetable.dart';
 class SignIn extends StatefulWidget {
   const SignIn({super.key});
 
